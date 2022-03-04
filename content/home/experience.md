@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research assistant
-    company: PhysicsHKU
+  - title: Research Assistant
+    company: Physics@HKU
     company_url: ''
     company_logo: HKU
     location: Hong Kong
@@ -41,7 +41,7 @@ experience:
     company: Harvard University
     company_url: ''
     company_logo: Harvard University
-    location: BostonOnline
+    location: Boston/Online
     date_start: '2020-08-01'
     date_end: '2020-11-30'
     description: EMNZ metamaterials
