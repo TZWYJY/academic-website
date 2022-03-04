@@ -25,7 +25,7 @@ experience:
   - title: Research assistant
     company: PhysicsHKU
     company_url: ''
-#    company_logo: HKU
+    company_logo: HKU
     location: Hong Kong
     date_start: '2021-10-01'
     date_end: ''
@@ -40,10 +40,10 @@ experience:
   - title: Summer Research Intern
     company: Harvard University
     company_url: ''
-#    company_logo: Harvard University
+    company_logo: Harvard University
     location: BostonOnline
     date_start: '2020-08-01'
-    date_end: '2020-11-31'
+    date_end: '2020-11-30'
     description: EMNZ metamaterials
 
 design:
