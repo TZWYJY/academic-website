@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards&&shy;Honours'
 subtitle:
 
 # Date format
@@ -25,27 +25,30 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2022-02-23"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
+  organization: The University of Hong Kong
+  organization_url: http://www.hku.hk/
+  organization_logo: HKU
+  title: HKU Presidential PhD Scholarship (HKU-PS)
+  url: "https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#1"
 - certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2021-06-30"
+  description: The highest honour for graduates in HUST
+  organization: Huazhong University of Science and Technology (HUST)
+  organization_url: https://www.hust.edu.cn/
+  organization_logo: HUST
+  title: Bachelor with honours (ranked 1/26 in Wang-Daheng honor class)
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-10-01"
+  description: "The highest honour for college students in the PRC (top 0.2%)"
+  organization: Ministry of Education of the PRC
+  organization_url: ""
+  organization_logo: HUST
+  title: 'National Scholarship'
   url: ""
 
 design:
