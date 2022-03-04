@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Awards&&shy;Honours'
+title: 'Awards &;Honours'
 subtitle:
 
 # Date format
@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
   date_start: "2022-02-23"
   description: ""
@@ -32,14 +32,14 @@ item:
   organization_logo: HKU
   title: HKU Presidential PhD Scholarship (HKU-PS)
   url: "https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#1"
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
   date_start: "2021-06-30"
-  description: The highest honour for graduates in HUST
+  description: Ranked 1/26 in Wang-Daheng honor class
   organization: Huazhong University of Science and Technology (HUST)
   organization_url: https://www.hust.edu.cn/
   organization_logo: HUST
-  title: Bachelor with honours (ranked 1/26 in Wang-Daheng honor class)
+  title: Bachelor with honours
   url: ""
 - certificate_url: ""
   date_end: ""
