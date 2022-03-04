@@ -25,7 +25,7 @@ experience:
   - title: Research assistant
     company: Physics@HKU
     company_url: ''
-    company_logo: HKU
+#    company_logo: HKU
     location: Hong Kong
     date_start: '2021-10-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Summer Research Intern
     company: Harvard University
     company_url: ''
-    company_logo: Harvard University
+#    company_logo: Harvard University
     location: Boston/Online
     date_start: '2020-08-01'
     date_end: '2020-11-31'
