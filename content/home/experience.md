@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research assistant
-    company: Physics@HKU
+    company: PhysicsHKU
     company_url: ''
 #    company_logo: HKU
     location: Hong Kong
@@ -41,10 +41,10 @@ experience:
     company: Harvard University
     company_url: ''
 #    company_logo: Harvard University
-    location: Boston/Online
+    location: BostonOnline
     date_start: '2020-08-01'
     date_end: '2020-11-31'
-    description: EMNZ metamaterials.
+    description: EMNZ metamaterials
 
 design:
   columns: '2'
