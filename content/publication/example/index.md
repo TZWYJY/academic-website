@@ -7,6 +7,10 @@ title: "Extremely Confined Acoustic Phonon Polaritons in Monolayer-hBN/Metal Het
 authors:
 - admin
 - Runkun Chen
+- Peining Li*
+- Alexey Y. Nikitin
+- Rainer Hillenbrand
+- and Xinliang Zhang*
 
 # Author notes (optional)
 author_notes:
