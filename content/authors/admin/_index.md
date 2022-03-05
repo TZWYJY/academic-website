@@ -69,4 +69,4 @@ highlight_name: true
 
 Zhu Yuan is a PhD student of nanophotonics at the Department of Physics, The University of Hong Kong. His research interests include new physics and exciting applications enabled by nanophotonics, such as newly emerging topological metamaterials. 
 
-Zhu is open-minded and curious about many things, not only the unknown in research, but also exciting things in life, maybe a casual book, a song with no name or a video game. He believes these brilliant beauty and widsom, of cross disciplines in science and of various art in life, can interact with each other and resonate at a point where miracles happen.  
+Zhu is open-minded and curious about many things, not only the unknown in research, but also exciting things in life, maybe a casual book, a song with no name or a video game. He believes these brilliant beauty and wisdom, in rich disciplines of science and in various forms of art, can interact with each other and resonate at a point where miracles happen.
