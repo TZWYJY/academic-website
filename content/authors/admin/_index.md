@@ -71,4 +71,4 @@ Zhu Yuan is a PhD student of nanophotonics at the Department of Physics, The Uni
 
 Zhu is open-minded and curious about many things, not only the unknown in research, but also exciting things in life, maybe a casual book, a song with no name or a video game. He believes these brilliant beauty and widsom, of cross disciplines in science and of various art in life, can interact with each other and resonate at a point where miracles happen.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
