@@ -1,9 +1,9 @@
 ---
 title: Congrats！Happy birthday for Zhu's first website.
-subtitle: Welcome 👋 to Zhu's first website. Let's make a new story right here!
+subtitle: Welcome 👋 to Zhu's first website. Let's make a new story right here! Thanks for the help from The Wowchemy website builder for Hugo, along with its starter templates. Below is the guidance for website building that may be helpful to you.
 
 # Summary for listings and search engines
-summary: Welcome 👋 to Zhu's first website. Let's make a new story right here! Thanks for the help from The Wowchemy website builder for Hugo, along with its starter templates. Below is the guidance for website building that may be helpful to you. 
+summary: Welcome 👋 to Zhu's first website. Let's make a new story right here!
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false

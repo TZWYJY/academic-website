@@ -29,7 +29,7 @@ content:
   address:
     street: Department of Physics
     city: The University of Hong Kong
-    region: Hong Kong
+    region: Hong Kong, China
     postcode: '999077'
     directions: CYM Physics Building, Pokfulam road.
 
