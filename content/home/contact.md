@@ -31,9 +31,7 @@ content:
     city: The University of Hong Kong
     region: Hong Kong
     postcode: '999077'
-    country: China
-    country_code: CN
-   directions: CYM Physics Building, Pokfulam road.
+    directions: CYM Physics Building, Pokfulam road.
 
 
 
