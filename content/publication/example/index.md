@@ -1,42 +1,38 @@
 ---
-title: "Extremely Confined Acoustic Phonon Polaritons in Monolayer-hBN/Metal Heterostructures for Strong Light–Matter Interactions"
+title: "An example conference paper"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Runkun Chen
-- Peining Li*
-- Alexey Y. Nikitin
-- Rainer Hillenbrand
-- Xinliang Zhang*
+- Robert Ford
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2020-07-31T00:00:00Z"
-doi: "https://doi-org.eproxy.lib.hku.hk/10.1021/acsphotonics.0c00981"
+date: "2013-07-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-05T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACS Photonics*
-publication_short: In *ACS Photonics*
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 
-abstract: Phonon polaritons in polar van der Waals materials enable strong electromagnetic-field confinement and enhancement for deeply subwavelength scale light-matter interactions. Here we propose and theoretically study acoustic phonon polaritons (APhPs) supported by a monolayer of hexagonal boron nitride (hBN) located at a few nanometers distance above a metal substrate. Compared to conventional hBN phonon polaritons, APhPs exhibit much larger polariton confinement, stronger near-field enhancement, and slower group velocity, altogether with nearly identical polariton lifetimes. These remarkable properties allow APhP-based nanoresonators to significantly enhance vibrational fingerprints of subnanometer-thick molecule layers, achieving strong coupling between molecular vibrations and APhP modes. Our work demonstrates the great potential of APhPs for exploring strong light–matter interactions at an extremely deep subwavelength-scale.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: A new hBN/metal structure to support acoustic phonon polaritons, with strong confinement and field enhancement.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -60,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**ACS Photonics**](https://doi-org.eproxy.lib.hku.hk/10.1021/acsphotonics.0c00981)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
@@ -88,4 +84,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
