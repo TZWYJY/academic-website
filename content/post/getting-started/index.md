@@ -1,9 +1,9 @@
 ---
 title: Congrats！Happy birthday for Zhu's first website.
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: Welcome 👋 to Zhu's first website. Let's make a new story right here!
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Welcome 👋 to Zhu's first website. Let's make a new story right here! Thanks for the help from The Wowchemy website builder for Hugo, along with its starter templates. Below is the guidance for website building that may be helpful to you. 
 
 # Link this post with a project
 projects: []
@@ -32,12 +32,12 @@ authors:
 - admin
 
 tags:
-- Academic
-- 开源
+- 个人网站
+- 新的尝试
 
 categories:
-- Demo
-- 教程
+- 自我展示
+- 新的尝试
 ---
 
 ## Overview

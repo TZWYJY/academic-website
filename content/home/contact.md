@@ -33,7 +33,7 @@ content:
     postcode: '999077'
     country: China
     country_code: CN
-    directions: CYM Physics Building, Pokfulam road.
+   directions: CYM Physics Building, Pokfulam road.
 
 
 
