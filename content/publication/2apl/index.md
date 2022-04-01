@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/2apl/example.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -77,11 +77,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their #reference management software.
-#{{% /callout %}}
-
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
