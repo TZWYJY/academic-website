@@ -1,27 +1,27 @@
 ---
-title: "Near-field mapping of complex-valued wavevectors of in-plane hyperbolic phonon polaritons in α-MoO3"
+title: "Extremely Confined Acoustic Phonon Polaritons in Monolayer-hBN/Metal Heterostructures for Strong Light–Matter Interactions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Yunji Meng
-- Weiliang Ma
 - Runkun Chen
-- Tao Wang*
-- and Peining Li*
+- Peining Li*
+- Alexey Y. Nikitin
+- Rainer Hillenbrand
+- and Xinliang Zhang*
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2022-03-31T00:00:00Z"
-doi: "https://doi.org/10.1063/5.0078210"
+date: "2020-07-31T00:00:00Z"
+doi: "https://doi.org/10.1021/acsphotonics.0c00981"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-01T00:00:00Z"
+publishDate: "2022-03-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,13 +30,14 @@ publishDate: "2022-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Applied Physics Letters*
-publication_short: In *Applied Physics Letters*
+publication: In *ACS Photonics*
+publication_short: In *ACS Photonics*
 
-abstract: Hyperbolic phonon polaritons (HPhPs) in α-phase molybdenum trioxide (α-MoO3) have recently attracted significant attention. They propagate anisotropically along the flake of α-MoO3 and show anomalously concave wavefronts when being excited by a pointlike source. Such anisotropic propagation is governed by the anisotropic wavevectors of HPhPs, which have been studied in different works. However, extracting the complex-valued wavevectors of all HPhP modes directly from the observed anomalous wavefront remains elusive. Here, we theoretically and experimentally demonstrate that the complex-valued HPhP wavevectors can be accurately quantified by fitting the concave wavefront profiles with a modified damped sine-wave function in all allowed directions. To that end, HPhPs are launched by an infrared antenna on a thin flake of α-MoO3 and are imaged in real space by using scanning near-field optical microscope. From the recorded concave wavefronts of HPhPs, we have experimentally retraced both the real part and the imaginary part of polariton wavevectors along different propagation directions. Our results are of fundamental importance for analyzing the optical properties of HPhPs in α-MoO3, which can also be generic to other anisotropic optical/polaritonic systems.
+abstract: Phonon polaritons in polar van der Waals materials enable strong electromagnetic-field confinement and enhancement for deeply subwavelength scale light-matter interactions. Here we propose and theoretically study acoustic phonon polaritons (APhPs) supported by a monolayer of hexagonal boron nitride (hBN) located at a few nanometers distance above a metal substrate. Compared to conventional hBN phonon polaritons, APhPs exhibit much larger polariton confinement, stronger near-field enhancement, and slower group velocity, altogether with nearly identical polariton lifetimes. These remarkable properties allow APhP-based nanoresonators to significantly enhance vibrational fingerprints of subnanometer-thick molecule layers, achieving strong coupling between molecular vibrations and APhP modes. Our work demonstrates the great potential of APhPs for exploring strong light–matter interactions at an extremely deep subwavelength-scale.
 
 # Summary. An optional shortened abstract.
-summary: We show a method to extract complex-valued wavevectors of in-plane hyperbolic polaritons from concave wavefront.
+summary: A new hBN-metal structure to support a new type of acoustic phonon polaritons, which shows strong confinement and field enhancement.
+
 tags: []
 
 # Display this page in the Featured widget?
@@ -59,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Applied Physics Letters**](https://doi.org/10.1063/5.0078210)'
+  caption: 'Image credit: [**ACS Photonics**](https://doi.org/10.1021/acsphotonics.0c00981)'
   focal_point: ""
   preview_only: false
 
