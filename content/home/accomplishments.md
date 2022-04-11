@@ -25,6 +25,15 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2022-04-06"
+  description: ""
+  organization: Research Grants Council (RGC) of Hong Kong
+  organization_url: ""
+  organization_logo: Research Grants Council (RGC) of Hong Kong
+  title: Hong Kong PhD Fellowship Scheme (HKPFS)
+  url: "https://cerg1.ugc.edu.hk/hkpfs/index.html"
+- certificate_url: ""
+  date_end: ""
   date_start: "2022-02-23"
   description: ""
   organization: The University of Hong Kong
